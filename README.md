@@ -1,4 +1,1 @@
-# MERN_Auth
-Auth with Google/Facebook/Email
-+Forget Password
-+Update User
+There are some issues with Google/Facebook Login
